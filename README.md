@@ -1,6 +1,6 @@
 # Math Problems Worksheet Generator
 
-A professional Python script that generates customizable PDF worksheets containing simple addition and subtraction problems designed for young learners. This tool creates print-ready educational materials with clean formatting and intelligent problem generation.
+A Python script that generates customizable PDF worksheets containing simple addition and subtraction problems designed for young learners. This tool creates print-ready educational materials with clean formatting and intelligent problem generation.
 
 ## 🎯 Overview
 
