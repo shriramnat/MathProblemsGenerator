@@ -72,7 +72,7 @@ def create_worksheet_pdf(filename, problem_list):
     problem_style.alignment = 1 
 
     # Add a title header (only once)
-    title = Paragraph("Simple Addition and Subtraction Worksheet for Ayra", styles['Title'])
+    title = Paragraph("Simple Addition and Subtraction Worksheet", styles['Title'])
     elements.append(title)
     elements.append(Paragraph("<br/>", styles['Normal']))
 
@@ -144,3 +144,4 @@ if __name__ == "__main__":
         create_worksheet_pdf(current_file_name, problems)
 
     print("\nAll 10 worksheets have been successfully generated.")
+
